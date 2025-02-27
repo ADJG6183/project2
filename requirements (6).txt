@@ -1,0 +1,5 @@
+Flask==2.2.0
+google-cloud-storage
+google-cloud-aiplatform
+google-generativeai
+gunicorn
